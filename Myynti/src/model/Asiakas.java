@@ -51,5 +51,5 @@ public class Asiakas {
 				+ puhelin + ", sposti=" + sposti + "]";
 	}
 	
-	
-	}
+}
+
